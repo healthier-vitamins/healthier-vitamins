@@ -1,4 +1,9 @@
-## Hi there 👋
+## 👋 Audrian Heng • [LinkedIn](https://www.linkedin.com/in/audrian-heng/)
+[![wakatime](https://wakatime.com/badge/user/26b52a03-4310-41da-a8f4-57f0f19915db.svg)](https://wakatime.com/@26b52a03-4310-41da-a8f4-57f0f19915db)
+
+> For the sole thing of which any man can be deprived is the present; since this is all he owns, and nobody can lose what is not his
+
+
 
 <!--
 **healthier-vitamins/healthier-vitamins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +18,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+## 🔭 Currently working on:
+- Whatsapp Clone (Deployed on AWS)
+
+
 -->
