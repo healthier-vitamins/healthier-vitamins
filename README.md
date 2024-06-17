@@ -1,7 +1,7 @@
 ## 👋 Audrian Heng • [LinkedIn](https://www.linkedin.com/in/audrian-heng/)
 [![wakatime](https://wakatime.com/badge/user/26b52a03-4310-41da-a8f4-57f0f19915db.svg)](https://wakatime.com/@26b52a03-4310-41da-a8f4-57f0f19915db)
 
-> For the sole thing of which any man can be deprived is the present; since this is all he owns, and nobody can lose what is not his
+> "For the sole thing of which any man can be deprived is the present; since this is all he owns, and nobody can lose what is not his" - Marcus Aurelius  
 
 
 
